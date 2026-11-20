@@ -11,7 +11,7 @@ Method document: [العربية (source)](docs/METHODE.md) · [Français (sourc
 
 - **What this is**: a method (documents, templates, rules) plus a zero-dependency Node engine that runs it. One file, no npm install: *installing is downloading*.
 - **What this is not**: not a chat UI, not an agent framework, not a code generator, not a hosted service. There is no web interface and there will not be one.
-- **Maintenance policy — zero, by design**: released **as-is, fixed version 1.0. No issue handling, no pull requests, no future releases.** To adapt it: fork it. (Precedent: a famous one-file council demo reached tens of thousands of stars with exactly this policy; community maintenance is a debt this project refuses on day one.)
+- **Maintenance policy — zero, by design**: released **as-is, fixed version 1.1. No issue handling, no pull requests, no future releases.** Zero maintenance is a stability contract, not abandonment. To adapt it: fork it. (Precedent: a famous one-file council demo reached tens of thousands of stars with exactly this policy; community maintenance is a debt this project refuses on day one.)
 - **Who it serves**: a decision-maker whose errors are expensive — a reviewer of code, decisions, plans or research who can read outputs and verify claims. It adds nothing to quick, simple questions.
 - **The chair is human**: the engine produces no verdict. If nobody reads and verifies, you get several confident opinions instead of one.
 - **Your keys, your costs**: free tiers are enough (one lane needs no key at all). Nothing here phones home; your files go only to the model providers you configure.

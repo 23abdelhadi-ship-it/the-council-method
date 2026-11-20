@@ -5,7 +5,7 @@ abstract: "A method and a zero-dependency engine for running a council of langua
 authors:
   - name: "Abdelhadi Bouri"
 type: software
-version: 1.0.0
+version: 1.1.0
 date-released: 2026-11-20
 license: MIT
 license-other: "Method and documents: CC BY 4.0 (see LICENSE-METHOD.md)"
