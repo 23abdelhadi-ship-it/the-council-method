@@ -1,0 +1,8 @@
+# Clés et configuration locale — JAMAIS versionnées
+moteur/config.json
+moteur/config.json.bak-*
+*.local
+
+# Sessions de l'utilisateur (sorties du moteur) : à lui de décider
+# de les garder ou non ; l'exemple publié vit dans examples/.
+revues/

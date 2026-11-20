@@ -1,0 +1,210 @@
+{
+  "projet": "The Council Method",
+  "sujet": "Informatiser les stocks de la coopérative Amal ?",
+  "date": "2026-11-20T01:06:42.653Z",
+  "source": "source-demo",
+  "poids": "standard",
+  "dossier": {
+    "fichiers": [
+      {
+        "chemin": "presentation.md",
+        "taille": 1232,
+        "sha256": "e6b906ad22a0269df9ce8d96aedffe94d6556ac311846085adeb0160eb1e089e"
+      },
+      {
+        "chemin": "proposition.md",
+        "taille": 1757,
+        "sha256": "1e1a653ba2107a0f984317b3f603a06fd4d20442724c36630433b318b31a034d"
+      }
+    ],
+    "empreinte": "d432d54be693129fa220bd01b8ffb87808e170d516a2796450c1f9a39e2359ed",
+    "tronque": false,
+    "exclus": []
+  },
+  "membres": [
+    {
+      "id": "gemini-gemini-3-6-flash",
+      "nom": "Gemini API (gemini-3.6-flash)",
+      "ligne": "Gemini API",
+      "modeleDeclare": "gemini-3.6-flash",
+      "modeleServi": "gemini-3.6-flash",
+      "statut": "ok-substantielle",
+      "caracteres": 4821
+    },
+    {
+      "id": "gemini-gemini-3-flash-preview",
+      "nom": "Gemini API (gemini-3-flash-preview)",
+      "ligne": "Gemini API",
+      "modeleDeclare": "gemini-3-flash-preview",
+      "modeleServi": "gemini-3-flash-preview",
+      "statut": "ok-substantielle",
+      "caracteres": 2562
+    },
+    {
+      "id": "gemini-gemini-3-8-flash",
+      "nom": "Gemini API (gemini-3.8-flash)",
+      "ligne": "Gemini API",
+      "modeleDeclare": "gemini-3.8-flash",
+      "modeleServi": null,
+      "statut": "echec",
+      "caracteres": 0
+    },
+    {
+      "id": "gemini-gemma-4-31b-it",
+      "nom": "Gemini API (gemma-4-31b-it)",
+      "ligne": "Gemini API",
+      "modeleDeclare": "gemma-4-31b-it",
+      "modeleServi": null,
+      "statut": "echec",
+      "caracteres": 0
+    },
+    {
+      "id": "openrouter-nemotron-3-ultra-550b-a55b-free",
+      "nom": "OpenRouter (nvidia/nemotron-3-ultra-550b-a55b:free)",
+      "ligne": "OpenRouter",
+      "modeleDeclare": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "modeleServi": "nvidia/nemotron-3-ultra-550b-a55b:free",
+      "statut": "ok-substantielle",
+      "caracteres": 2915
+    },
+    {
+      "id": "openrouter-north-mini-code-free",
+      "nom": "OpenRouter (cohere/north-mini-code:free)",
+      "ligne": "OpenRouter",
+      "modeleDeclare": "cohere/north-mini-code:free",
+      "modeleServi": "cohere/north-mini-code:free",
+      "statut": "ok-substantielle",
+      "caracteres": 1693
+    },
+    {
+      "id": "openrouter-ling-3-2-flash-free",
+      "nom": "OpenRouter (inclusionai/ling-3.2-flash:free)",
+      "ligne": "OpenRouter",
+      "modeleDeclare": "inclusionai/ling-3.2-flash:free",
+      "modeleServi": null,
+      "statut": "echec",
+      "caracteres": 0
+    },
+    {
+      "id": "openrouter-gemma-4-31b-it-free",
+      "nom": "OpenRouter (google/gemma-4-31b-it:free)",
+      "ligne": "OpenRouter",
+      "modeleDeclare": "google/gemma-4-31b-it:free",
+      "modeleServi": null,
+      "statut": "echec",
+      "caracteres": 0
+    },
+    {
+      "id": "openrouter-nemotron-3-5-lightning-free",
+      "nom": "OpenRouter (nvidia/nemotron-3.5-lightning:free)",
+      "ligne": "OpenRouter",
+      "modeleDeclare": "nvidia/nemotron-3.5-lightning:free",
+      "modeleServi": null,
+      "statut": "echec",
+      "caracteres": 0
+    },
+    {
+      "id": "kilo-auto-free",
+      "nom": "Kilo (voie sans cle) (kilo-auto/free)",
+      "ligne": "Kilo (sans cle)",
+      "modeleDeclare": "kilo-auto/free",
+      "modeleServi": "reflection/beam-free",
+      "statut": "ok-substantielle",
+      "caracteres": 2973
+    },
+    {
+      "id": "kilo-ling-3-2-flash-free",
+      "nom": "Kilo (voie sans cle) (inclusionai/ling-3.2-flash:free)",
+      "ligne": "Kilo (sans cle)",
+      "modeleDeclare": "inclusionai/ling-3.2-flash:free",
+      "modeleServi": null,
+      "statut": "echec",
+      "caracteres": 0
+    },
+    {
+      "id": "kilo-ernie-5-5-flash-preview-free",
+      "nom": "Kilo (voie sans cle) (baidu/ernie-5.5-flash-preview:free)",
+      "ligne": "Kilo (sans cle)",
+      "modeleDeclare": "baidu/ernie-5.5-flash-preview:free",
+      "modeleServi": "baidu/ernie-5.5-flash-preview:free",
+      "statut": "ok-substantielle",
+      "caracteres": 7160
+    },
+    {
+      "id": "groq-gpt-oss-120b",
+      "nom": "Groq (openai/gpt-oss-120b)",
+      "ligne": "Groq",
+      "modeleDeclare": "openai/gpt-oss-120b",
+      "modeleServi": "openai/gpt-oss-120b",
+      "statut": "ok-substantielle",
+      "caracteres": 1861
+    },
+    {
+      "id": "groq-qwen3-8-27b",
+      "nom": "Groq (qwen/qwen3.8-27b)",
+      "ligne": "Groq",
+      "modeleDeclare": "qwen/qwen3.8-27b",
+      "modeleServi": "qwen/qwen3.8-27b",
+      "statut": "ok-substantielle",
+      "caracteres": 4237
+    },
+    {
+      "id": "cerebras-gpt-oss-120b",
+      "nom": "Cerebras (gpt-oss-120b)",
+      "ligne": "Cerebras",
+      "modeleDeclare": "gpt-oss-120b",
+      "modeleServi": null,
+      "statut": "echec",
+      "caracteres": 0
+    },
+    {
+      "id": "cerebras-qwen-3-8-27b",
+      "nom": "Cerebras (qwen-3.8-27b)",
+      "ligne": "Cerebras",
+      "modeleDeclare": "qwen-3.8-27b",
+      "modeleServi": null,
+      "statut": "echec",
+      "caracteres": 0
+    },
+    {
+      "id": "cohere-command-a-03-2025",
+      "nom": "Cohere (command-a-03-2025)",
+      "ligne": "Cohere",
+      "modeleDeclare": "command-a-03-2025",
+      "modeleServi": "command-a-03-2025",
+      "statut": "ok-substantielle",
+      "caracteres": 1833
+    },
+    {
+      "id": "nvidia-deepseek-r1",
+      "nom": "NVIDIA (deepseek-ai/deepseek-r1)",
+      "ligne": "NVIDIA",
+      "modeleDeclare": "deepseek-ai/deepseek-r1",
+      "modeleServi": null,
+      "statut": "echec",
+      "caracteres": 0
+    },
+    {
+      "id": "zai-glm-4-5-flash",
+      "nom": "Z.AI (glm-4.5-flash)",
+      "ligne": "Z.AI",
+      "modeleDeclare": "glm-4.5-flash",
+      "modeleServi": "glm-4.5-flash",
+      "statut": "ok-substantielle",
+      "caracteres": 3861
+    },
+    {
+      "id": "freellmapi-auto",
+      "nom": "FreeLLMAPI (local) (auto)",
+      "ligne": "FreeLLMAPI (local)",
+      "modeleDeclare": "auto",
+      "modeleServi": null,
+      "statut": "echec",
+      "caracteres": 0
+    }
+  ],
+  "rondes": 2,
+  "dryRun": false,
+  "quorum": "ATTEINT",
+  "reponsesSubstantielles": 10
+}

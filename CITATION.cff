@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use The Council Method, please cite it as below."
+title: "The Council Method — multi-model deliberation with a human chair who verifies by execution"
+abstract: "A method and a zero-dependency engine for running a council of language models over technical files (code, decisions, research): an independent round, an anonymized debate by rotation, mandatory claim classification, a binding decisions register, a session quorum rule (QUORUM_NON_ATTEINT), and a human chair who settles disputes by execution, never by vote."
+authors:
+  - name: "Abdelhadi Bouri"
+type: software
+version: 1.0.0
+date-released: 2026-11-20
+license: MIT
+license-other: "Method and documents: CC BY 4.0 (see LICENSE-METHOD.md)"
+keywords:
+  - multi-model deliberation
+  - llm council
+  - code review
+  - decision review
+  - verification by execution
+  - claim classification
